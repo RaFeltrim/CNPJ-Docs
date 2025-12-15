@@ -1,4 +1,4 @@
-# 🎉 Reestruturação Completa do Repositório CNPJ-QA-Training
+# 🎉 Reestruturação Completa do Repositório qa-dash-visualization
 
 ## ✅ Resumo das Mudanças
 
@@ -8,7 +8,7 @@ A reestruturação foi **concluída com sucesso**! O repositório agora segue pa
 
 ### Antes (Raiz Desorganizada)
 ```
-CNPJ-QA-Training/
+qa-dash-visualization/
 ├── 01.Guia_cnpj_qa.md
 ├── 02.Exercicios_cnpj.md
 ├── 03.Gabarito_exercicios_CNPJ.md
@@ -27,7 +27,7 @@ CNPJ-QA-Training/
 
 ### Depois (Organização Profissional)
 ```
-CNPJ-QA-Training/
+qa-dash-visualization/
 │
 ├── 📁 docs/                          # Toda documentação
 │   ├── guides/                       # Guias técnicos
@@ -181,3 +181,4 @@ Comece pelo índice: **[docs/README.md](docs/README.md)**
 
 **Reestruturação realizada em**: 9 de dezembro de 2025
 **Status**: ✅ Completo e funcional
+

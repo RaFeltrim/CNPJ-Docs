@@ -198,8 +198,8 @@ Este material usa **scaffolding pedagógico**:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/RaFeltrim/CNPJ-QA-Training.git
-cd CNPJ-QA-Training
+git clone https://github.com/RaFeltrim/qa-dash-visualization.git
+cd qa-dash-visualization
 
 # Crie ambiente virtual
 python -m venv venv
@@ -266,8 +266,8 @@ pytest tests/ -v
 
 Se encontrar erros, sugerir melhorias, ou adicionar exemplos:
 
-1. Abra uma [issue](https://github.com/RaFeltrim/CNPJ-QA-Training/issues)
-2. Crie um [Pull Request](https://github.com/RaFeltrim/CNPJ-QA-Training/pulls)
+1. Abra uma [issue](https://github.com/RaFeltrim/qa-dash-visualization/issues)
+2. Crie um [Pull Request](https://github.com/RaFeltrim/qa-dash-visualization/pulls)
 3. Marque como `documentation`
 
 ---
@@ -287,3 +287,4 @@ Se encontrar erros, sugerir melhorias, ou adicionar exemplos:
 *"A qualidade não é um ato, é um hábito." - Aristóteles*
 
 </div>
+

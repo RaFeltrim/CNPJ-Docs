@@ -1,8 +1,8 @@
-# Arquitetura do Projeto CNPJ-QA-Training
+# Arquitetura do Projeto qa-dash-visualization
 
 ## Visão Geral
 
-O CNPJ-QA-Training é um sistema de validação de CNPJ desenvolvido com arquitetura modular, focado em:
+O qa-dash-visualization é um sistema de validação e visualização desenvolvido com arquitetura modular, focado em:
 
 1. **Separação de responsabilidades** - Cada módulo tem função específica
 2. **Testabilidade** - Código facilmente testável em isolamento

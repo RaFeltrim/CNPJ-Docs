@@ -242,7 +242,7 @@ Cada exercício tem critérios específicos, mas em geral:
 
 ### Antes de Começar
 
-1. **Ambiente pronto**: Projeto CNPJ-QA-Training clonado e funcionando
+1. **Ambiente pronto**: Projeto qa-dash-visualization clonado e funcionando
 2. **Tempo reservado**: Blocos de pelo menos 1h
 3. **Material à mão**: Guia teórico aberto para consulta
 
@@ -315,3 +315,4 @@ Agora que você entende a metodologia, vamos ao primeiro exercício!
 - Vygotsky, L. S. (1978). *Mind in Society* - Zona de Desenvolvimento Proximal
 - Wood, D., Bruner, J. S., & Ross, G. (1976). *The role of tutoring in problem solving*
 - Collins, A., Brown, J. S., & Newman, S. E. (1989). *Cognitive Apprenticeship*
+

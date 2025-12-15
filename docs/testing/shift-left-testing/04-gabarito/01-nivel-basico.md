@@ -243,7 +243,7 @@ Analisar o pipeline GitHub Actions do projeto CNPJ e responder perguntas sobre s
 #### 3.1 Estágios do Pipeline
 
 ```yaml
-Pipeline CNPJ-QA-Training:
+Pipeline qa-dash-visualization:
 
 ┌─────────────────────────────────────────────────────────────┐
 │ TRIGGER: push (master) / pull_request (master)              │
@@ -397,3 +397,4 @@ strategy:
 | Anterior | Índice | Próximo |
 |----------|--------|---------|
 | [← Índice Gabarito](index.md) | [📚 Principal](../README.md) | [Intermediário →](02-nivel-intermediario.md) |
+

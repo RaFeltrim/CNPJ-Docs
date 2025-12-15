@@ -15,7 +15,7 @@ Sistema completo de validação de CNPJ (Cadastro Nacional de Pessoa Jurídica) 
 ## Estrutura do Projeto
 
 ```
-CNPJ-QA-Training/
+qa-dash-visualization/
 ├── cnpj_validator/              # Código principal
 │   ├── validators/
 │   │   ├── numeric_validator.py        # Validação numérica
@@ -350,8 +350,8 @@ Este projeto serve como:
 
 ```bash
 # 1. Clonar repositório
-git clone https://github.com/RaFeltrim/CNPJ-QA-Training.git
-cd CNPJ-QA-Training
+git clone https://github.com/RaFeltrim/qa-dash-visualization.git
+cd qa-dash-visualization
 
 # 2. Instalar dependências
 pip install -r requirements.txt
@@ -371,3 +371,4 @@ python examples/demo.py
 **Desenvolvido com ❤️ para a comunidade de QA e Testes de Software**
 
 **Última Atualização**: 2025-12-09
+

@@ -4,7 +4,7 @@
 
 ## 📋 Contexto
 
-Este exemplo final integra todos os conceitos apresentados em um sistema completo de automação para o projeto CNPJ-QA-Training.
+Este exemplo final integra todos os conceitos apresentados em um sistema completo de automação para o projeto qa-dash-visualization.
 
 ## 🏗️ Arquitetura Completa
 
@@ -721,3 +721,4 @@ Você completou todos os exemplos práticos do material de Shift Left Testing. A
 - ✅ Infraestrutura de automação
 
 **Próximo passo**: Aplicar estes conhecimentos em seus próprios projetos!
+

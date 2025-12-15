@@ -1,4 +1,4 @@
-# Documentação CNPJ-QA-Training
+# Documentação qa-dash-visualization
 
 Este diretório contém toda a documentação técnica, guias de estudo e material de treinamento do projeto.
 
@@ -160,3 +160,4 @@ Para contribuir com a documentação:
 ---
 
 **Nota**: Toda documentação está em português brasileiro para facilitar o aprendizado de profissionais de QA no Brasil.
+

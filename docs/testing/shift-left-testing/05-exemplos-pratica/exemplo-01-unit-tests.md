@@ -4,7 +4,7 @@
 
 ## 📋 Contexto
 
-Este exemplo utiliza o `NumericValidator` do projeto CNPJ-QA-Training para demonstrar como aplicar os princípios de Shift Left Testing em testes unitários.
+Este exemplo utiliza o `NumericValidator` do projeto qa-dash-visualization para demonstrar como aplicar os princípios de Shift Left Testing em testes unitários.
 
 ## 🔍 Código Sob Teste
 
@@ -486,3 +486,4 @@ def test_smoke_valido(self, validator):
 | Anterior | Índice | Próximo |
 |----------|--------|---------|
 | [← Gabarito](../04-gabarito/index.md) | [📚 Principal](../README.md) | [Integração →](exemplo-02-integration.md) |
+

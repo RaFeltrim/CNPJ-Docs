@@ -99,7 +99,7 @@ EXERCÍCIO 1 ──────────────────────�
 ### Dicas de Estudo
 
 - Reserve tempo focado (sem interrupções)
-- Tenha o projeto CNPJ-QA-Training aberto
+- Tenha o projeto qa-dash-visualization aberto
 - Teste suas soluções executando código
 - Anote dúvidas para pesquisar depois
 
@@ -118,3 +118,4 @@ EXERCÍCIO 1 ──────────────────────�
 ---
 
 **Primeiro passo**: [Entenda a Metodologia](00-introducao-metodologia.md) →
+

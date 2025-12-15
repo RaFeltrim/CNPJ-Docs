@@ -110,7 +110,7 @@ Elabore um documento de **Estratégia de Testes** completo contendo:
 
 ### Contexto
 
-A equipe de segurança identificou que o projeto CNPJ-QA-Training precisa melhorar suas práticas de segurança. Você foi encarregado de implementar **Shift Left Security** no projeto.
+A equipe de segurança identificou que o projeto qa-dash-visualization precisa melhorar suas práticas de segurança. Você foi encarregado de implementar **Shift Left Security** no projeto.
 
 ---
 
@@ -507,3 +507,4 @@ Você completou **todos os exercícios** de Shift Left Testing!
 ---
 
 **Voltar para**: [Índice dos Exercícios](index.md) | [README Principal](../README.md)
+

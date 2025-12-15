@@ -10,7 +10,7 @@ set -euo pipefail
 REPOS=(
   "RaFeltrim/platform-one"
   "RaFeltrim/fabrica-de-testes"
-  "RaFeltrim/CNPJ-QA-Training"
+  "RaFeltrim/qa-dash-visualization"
 )
 
 required=(DOCKER_USERNAME DOCKER_PASSWORD)

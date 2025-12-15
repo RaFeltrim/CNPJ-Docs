@@ -448,7 +448,7 @@ PROBLEMA DOS TESTES E2E EXCESSIVOS:
 
 ### Pipeline Completo de Shift Left
 
-O projeto CNPJ-QA-Training já tem um pipeline implementado. Vamos analisá-lo:
+O projeto qa-dash-visualization já tem um pipeline implementado. Vamos analisá-lo:
 
 ```yaml
 # .github/workflows/ci-cd.yml
@@ -630,3 +630,4 @@ pytest tests/ -v -m "smoke"
 Agora que você entende **como Shift Left funciona**, vamos aprender **como aplicar** em uma organização: passo a passo de implementação, boas práticas e ferramentas.
 
 **Próximo módulo**: [4. Como Aplicar em uma Organização](04-como-aplicar.md) →
+

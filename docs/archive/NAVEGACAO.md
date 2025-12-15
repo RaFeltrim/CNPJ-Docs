@@ -1,4 +1,4 @@
-# 🗺️ Guia Rápido de Navegação - CNPJ-QA-Training
+# 🗺️ Guia Rápido de Navegação - qa-dash-visualization
 
 ## 📍 Onde Encontrar Cada Tipo de Conteúdo
 
@@ -56,7 +56,7 @@ pip install -e .
 ## 📂 Estrutura Resumida
 
 ```
-📦 CNPJ-QA-Training
+📦 qa-dash-visualization
  ┣ 📂 docs/              → Toda documentação
  ┃ ┣ 📂 guides/          → Guias técnicos
  ┃ ┣ 📂 training/        → Material de treino
@@ -81,4 +81,5 @@ Use o índice da documentação como ponto de partida:
 
 ---
 
-**Precisa de ajuda?** Abra uma [issue no GitHub](https://github.com/RaFeltrim/CNPJ-QA-Training/issues)
+**Precisa de ajuda?** Abra uma [issue no GitHub](https://github.com/RaFeltrim/qa-dash-visualization/issues)
+

@@ -4,7 +4,7 @@
 
 ## 📋 Contexto
 
-Este exemplo utiliza o `ReceitaFederalAPI` do projeto CNPJ-QA-Training para demonstrar como testar integrações com serviços externos seguindo princípios Shift Left.
+Este exemplo utiliza o `ReceitaFederalAPI` do projeto qa-dash-visualization para demonstrar como testar integrações com serviços externos seguindo princípios Shift Left.
 
 ## 🔍 Código Sob Teste
 
@@ -672,3 +672,4 @@ def test_cache(self, api):
 | Anterior | Índice | Próximo |
 |----------|--------|---------|
 | [← Unit Tests](exemplo-01-unit-tests.md) | [📚 Principal](../README.md) | [CI/CD →](exemplo-03-ci-cd.md) |
+

@@ -112,7 +112,7 @@ Aprender como implementar Shift Left Testing em um projeto real, do zero.
 2. [`05-exemplos-pratica/exemplo-01-unit-tests.md`](../05-exemplos-pratica/exemplo-01-unit-tests.md)
 
 ### Atividades Práticas
-- [ ] Analise o projeto CNPJ-QA-Training
+- [ ] Analise o projeto qa-dash-visualization
 - [ ] Identifique os tipos de testes existentes
 - [ ] Execute a suite de testes: `pytest tests/ -v`
 - [ ] Leia e entenda 3 testes unitários do projeto
@@ -120,8 +120,8 @@ Aprender como implementar Shift Left Testing em um projeto real, do zero.
 ### Exercício Prático
 ```bash
 # Clone e configure o projeto
-git clone https://github.com/RaFeltrim/CNPJ-QA-Training.git
-cd CNPJ-QA-Training
+git clone https://github.com/RaFeltrim/qa-dash-visualization.git
+cd qa-dash-visualization
 python -m venv venv
 source venv/bin/activate  # ou venv\Scripts\activate no Windows
 pip install -r requirements.txt
@@ -328,7 +328,7 @@ Ao completar este plano, você deve ser capaz de:
 ### Antes de Começar
 1. Reserve um horário fixo para estudar
 2. Prepare seu ambiente de desenvolvimento
-3. Tenha o projeto CNPJ-QA-Training clonado e funcionando
+3. Tenha o projeto qa-dash-visualization clonado e funcionando
 
 ### Durante o Estudo
 1. Faça anotações - escrever ajuda a fixar
@@ -380,3 +380,4 @@ Use os critérios de sucesso de cada semana como guia.
 ---
 
 **Próximo passo**: [Estrutura Pedagógica](estrutura-pedagogica.md) →
+

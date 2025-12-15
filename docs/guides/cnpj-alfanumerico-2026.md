@@ -387,8 +387,9 @@ dados = api.consultar("AB.CDE.123/0001-45")  # Erro!
 
 | Versão | Data | Autor | Descrição |
 |--------|------|-------|-----------|
-| 1.0 | 10/12/2025 | CNPJ-QA-Training | Versão inicial |
+| 1.0 | 10/12/2025 | qa-dash-visualization | Versão inicial |
 
 ---
 
 > **Nota**: Este documento será atualizado conforme a Receita Federal publicar novas especificações oficiais.
+

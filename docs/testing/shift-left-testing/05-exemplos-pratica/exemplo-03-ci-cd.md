@@ -4,7 +4,7 @@
 
 ## 📋 Contexto
 
-Este exemplo apresenta o pipeline GitHub Actions do projeto CNPJ-QA-Training, explicando como cada estágio implementa princípios de Shift Left Testing.
+Este exemplo apresenta o pipeline GitHub Actions do projeto qa-dash-visualization, explicando como cada estágio implementa princípios de Shift Left Testing.
 
 ## 🏗️ Arquitetura do Pipeline
 
@@ -586,3 +586,4 @@ echo "===================================="
 | Anterior | Índice | Próximo |
 |----------|--------|---------|
 | [← Integration](exemplo-02-integration.md) | [📚 Principal](../README.md) | [Automação →](exemplo-04-automacao.md) |
+

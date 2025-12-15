@@ -11,7 +11,7 @@ Este plano segue uma progressão lógica de aprendizado ponta a ponta:
 - **Fundamentos Teóricos** (Semanas 1-2): Compreensão profunda do algoritmo através de exercícios manuais
 - **Conceitos de QA e Testing** (Semana 3): Metodologias, casos de teste e boas práticas
 - **Implementação Guiada** (Semana 4): Criação do próprio código seguindo o aprendizado
-- **Execução do Projeto Base** (Semana 5): Executar e testar o CNPJ-QA-Training
+- **Execução do Projeto Base** (Semana 5): Executar e testar o qa-dash-visualization
 - **Automação & Conformidade** (Semana 6): Testes E2E, API Receita Federal, performance e LGPD
 
 **Público-Alvo**: QA Pleno que deseja domínio completo (teoria + prática)
@@ -114,7 +114,7 @@ meu-validador-cnpj/
 
 ## 5. FASE 4: EXECUÇÃO DO PROJETO BASE (Semana 5) 🆕
 
-### Semana 5 - Explorando o CNPJ-QA-Training
+### Semana 5 - Explorando o qa-dash-visualization
 
 **Objetivo**: Executar, testar e explorar o projeto base completo
 
@@ -129,8 +129,8 @@ meu-validador-cnpj/
 **Comandos Importantes**:
 ```bash
 # 1. Clonar o projeto
-git clone https://github.com/RaFeltrim/CNPJ-QA-Training.git
-cd CNPJ-QA-Training
+git clone https://github.com/RaFeltrim/qa-dash-visualization.git
+cd qa-dash-visualization
 
 # 2. Criar ambiente virtual
 python -m venv venv
@@ -352,7 +352,7 @@ Ao concluir as 6 semanas, você terá:
 ### Implementação Técnica
 
 - Seu próprio validador Python funcional
-- Experiência com o projeto CNPJ-QA-Training
+- Experiência com o projeto qa-dash-visualization
 - Testes unitários e de integração
 - Uso da API da Receita Federal
 
@@ -392,7 +392,7 @@ Ao concluir as 6 semanas, você terá:
 │                                                                 │
 │  FASE 4: EXECUÇÃO PROJETO BASE (Semana 5)  ⭐                   │
 │  ═══════════════════════════════════════════                    │
-│  Semana 5  ████████████  CNPJ-QA-Training + API Receita        │
+│  Semana 5  ████████████  qa-dash-visualization + API Receita        │
 │                                                                 │
 │  FASE 5: AUTOMAÇÃO & FINALIZAÇÃO (Semana 6)                    │
 │  ═══════════════════════════════════════════════════════════    │
@@ -424,7 +424,7 @@ Para considerar o plano concluído com êxito:
 ### (Concluido) Critérios Técnicos
 
 - [ ] Seu validador próprio funcionando
-- [ ] Projeto CNPJ-QA-Training executado com sucesso
+- [ ] Projeto qa-dash-visualization executado com sucesso
 - [ ] Testes passando (seu código + projeto base)
 - [ ] API da Receita Federal utilizada
 
@@ -457,8 +457,8 @@ Para considerar o plano concluído com êxito:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/RaFeltrim/CNPJ-QA-Training.git
-cd CNPJ-QA-Training
+git clone https://github.com/RaFeltrim/qa-dash-visualization.git
+cd qa-dash-visualization
 
 # Criar ambiente virtual
 python -m venv venv
@@ -511,7 +511,7 @@ python examples/demo_api_receita.py
 
 Após concluir o plano:
 
-1. **Contribua para o projeto**: Abra PRs no CNPJ-QA-Training
+1. **Contribua para o projeto**: Abra PRs no qa-dash-visualization
 2. **Expanda seu validador**: Adicione validação de CPF, NIS, etc
 3. **Crie conteúdo**: Escreva artigos técnicos sobre sua jornada
 4. **Mentoria**: Ajude outros QAs a aprender validação de CNPJ
@@ -521,7 +521,7 @@ Após concluir o plano:
 
 ## 12. CONTATO E SUPORTE
 
-**Repositório**: [github.com/RaFeltrim/CNPJ-QA-Training](https://github.com/RaFeltrim/CNPJ-QA-Training)
+**Repositório**: [github.com/RaFeltrim/qa-dash-visualization](https://github.com/RaFeltrim/qa-dash-visualization)
 
 **Issues**: Reporte bugs ou sugira melhorias nas Issues do GitHub
 
